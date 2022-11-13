@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Elena Andrianova (@ellandry)
+- 👀 I’m interested in Data science, analytics in international trading and Customs administration
+- 🌱 I’m currently learning programming on Python
+- 💞️ I’m looking to collaborate on Customs administration other countries
+- 📫 How to reach me - ellandry777@gmail.com
